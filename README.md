@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith krishna</h1>
 <h3 align="center">Aspiring DevOps Engineer | Cloud Technology Enthusiast | Passionate About Cloud Technologies</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zeeshanshaikh93&label=Profile%20views&color=1a9338&style=flat" alt="Zeeshanshaikh93" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohith8370&label=Profile%20views&color=1a9338&style=flat" alt="Rohith8370" /> </p>
 
 - 💬 Ask me about **Python, AWS, DevOps, AZURE**
 
